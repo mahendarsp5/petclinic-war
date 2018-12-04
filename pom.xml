@@ -423,7 +423,7 @@
                         <version>${webjars-bootstrap.version}</version>
                     </dependency>
                 </dependencies>
-            </plugin>
+            </plugin> -->
         </plugins>
     </build>
     <reporting>
